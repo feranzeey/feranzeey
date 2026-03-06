@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Feranmi 👋
 
-<!--
-**feranzeey/feranzeey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Cloud & DevOps Learner  
+📍 Ibadan, Nigeria  
+🚀 Currently learning Linux and Cloud Computing  
 
-Here are some ideas to get you started:
+## Skills I'm Learning
+- Linux
+- Git & GitHub
+- Cloud Computing
+- Bash scripting
+- Docker
+- Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+🔹 Linux for Cloud Beginners  
+🔹 Git Practice Projects  
+
+## Goals
+- Become a Devops Engineer
+- Build real DevOps projects
