@@ -1,21 +1,27 @@
-# Hi, I'm Feranmi 👋
+# Hi, I'm Feranmi
 
-💻 Cloud & DevOps Learner  
-📍 Ibadan, Nigeria  
-🚀 Currently learning Linux and Cloud Computing  
+## DevOps Engineer | Docker | CI/CD | Cloud Enthusiast
 
-## Skills I'm Learning
-- Linux
-- Git & GitHub
-- Cloud Computing
-- Bash scripting
+I am a passionate DevOps engineer focused on building scalable systems using Docker, CI/CD pipelines, and modern infrastructure tools.
+
+---
+
+## Tech Stack
 - Docker
-- Azure
+- Nginx
+- GitHub Actions
+- Linux
+- Networking
 
-## Current Projects
-🔹 Linux for Cloud Beginners  
-🔹 Git Practice Projects  
+---
 
-## Goals
-- Become a Devops Engineer
-- Build real DevOps projects
+## Featured Projects
+- Docker Full App (Nginx + PostgreSQL)
+- CI/CD Pipeline with GitHub Actions
+- Nginx Reverse Proxy Load Balancer
+- Monitoring Stack (Prometheus + Grafana)
+
+---
+
+## 📫 Contact Me
+- Email: dadaferanmi1@gmail.com
