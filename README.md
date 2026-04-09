@@ -1,27 +1,39 @@
 # Hi, I'm Feranmi
 
-## DevOps Engineer | Docker | CI/CD | Cloud Enthusiast
+DevOps Engineer | Docker | CI/CD | Cloud | Linux
 
-I am a passionate DevOps engineer focused on building scalable systems using Docker, CI/CD pipelines, and modern infrastructure tools.
+I am passionate about building automated infrastructure, containerized applications, and CI/CD pipelines.
 
----
+##  DevOps Tools
 
-## Tech Stack
-- Docker
-- Nginx
-- GitHub Actions
-- Linux
-- Networking
-
----
+* Docker
+* Git
+* GitHub Actions
+* Linux
+* Nginx
+* Bash
 
 ## Featured Projects
-- Docker Full App (Nginx + PostgreSQL)
-- CI/CD Pipeline with GitHub Actions
-- Nginx Reverse Proxy Load Balancer
-- Monitoring Stack (Prometheus + Grafana)
 
----
+### Docker Nginx Proxy
 
-## 📫 Contact Me
-- Email: dadaferanmi1@gmail.com
+Runs an Nginx container using Docker and exposes it to a local port.
+
+### Docker Static Website
+
+Deploys a static website using Docker and Nginx.
+
+### Docker CI/CD
+
+Automated build and deployment using GitHub Actions.
+
+## Currently Learning
+
+* Kubernetes
+* Terraform
+* Azure
+
+## Connect With Me
+Email: dadaferanmi1@gmail.com
+
+GitHub: https://github.com/feranzeey
