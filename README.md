@@ -1,52 +1,116 @@
-##  Hi, I'm Oluwaferanmi Dada
+# Hi, I'm Dada Oluwaferanmi Emmanuel 
 
- Aspiring DevOps Engineer passionate about cloud infrastructure, automation, CI/CD, monitoring, and containerization.
+## DevOps Engineer Intern | Cloud Infrastructure | Automation | CI/CD | Kubernetes
 
-I am currently a **DevOps Intern at Springer Capital**, where I am gaining hands-on experience with modern DevOps practices, infrastructure automation, monitoring tools, and cloud-native technologies.
+I am a DevOps Engineer Intern at **Springer Capital (Remote, United States)**, focused on building practical experience in modern cloud infrastructure, automation, deployment workflows, and reliable software delivery.
 
-###  What I'm Currently Learning
+My work and learning journey revolve around improving system reliability, automating repetitive processes, supporting deployment pipelines, and developing hands-on skills across DevOps technologies.
 
-* Docker & Containerization
-* Kubernetes & Container Orchestration
-* Linux Administration
-* CI/CD Pipelines
-* Infrastructure as Code (Terraform)
-* Monitoring & Observability
-* Cloud Platforms (AWS)
-* DevOps Automation & Best Practices
+I am passionate about creating efficient engineering workflows where development and operations work together to deliver scalable and secure solutions.
 
-###  Technologies & Tools
+---
 
-* Linux
-* Git & GitHub
-* Docker
-* Kubernetes
-* Jenkins
-* Terraform
-* Python
-* Bash Scripting
-* AWS
-* Prometheus
-* Grafana
+#  Professional Experience
 
-###  Current Focus
+## DevOps Engineer Intern — Springer Capital  
+**Remote | United States**
 
-As part of my internship and continuous learning journey, I am building real-world DevOps projects involving:
+Working with DevOps concepts and practices including:
 
-* Application deployment automation
-* Infrastructure provisioning
-* Monitoring and logging solutions
-* Incident response and troubleshooting
-* Kubernetes deployments
-* CI/CD workflow implementation
+- Cloud infrastructure management
+- CI/CD workflow implementation
+- Linux system administration
+- Containerized application environments
+- Deployment automation
+- Infrastructure monitoring
+- Troubleshooting and problem resolution
+- DevOps documentation and best practices
 
-###  Career Goal
+---
 
-My goal is to become a highly skilled DevOps Engineer capable of designing, automating, and maintaining scalable, reliable, and secure cloud infrastructure.
+#  Technical Skills
 
-### Connect With Me
+## DevOps & CI/CD
+- Git
+- GitHub
+- GitLab
+- Jenkins
+- CI/CD Pipelines
+- Release Automation
 
-* GitHub: https://github.com/feranzeey
-* LinkedIn: Add your LinkedIn profile link here
+## Containers & Orchestration
+- Docker
+- Kubernetes
+- Container Management
+- Kubernetes Deployments
+- YAML Configuration
 
-⚡ Fun Fact: I believe the best way to learn DevOps is by building, breaking, fixing, and documenting real projects.
+## Cloud & Infrastructure
+- AWS
+- Linux Administration
+- Virtual Machines
+- Networking Fundamentals
+- Infrastructure as Code (Terraform)
+
+## Automation & Monitoring
+- Bash Scripting
+- Python
+- Prometheus
+- Grafana
+- Logging & Monitoring Concepts
+
+---
+
+#  Engineering Projects
+
+I build practical projects focused on solving real infrastructure challenges:
+
+###  GitLab Backup & Recovery Automation
+- Automated backup workflows
+- Linux-based scheduling
+- Backup validation and recovery testing
+- Disaster recovery practices
+
+###  Containerized Application Deployment
+- Docker image creation
+- Container management
+- Application deployment workflows
+
+###  Kubernetes Deployment Practice
+- Kubernetes resources
+- Pod troubleshooting
+- Service configuration
+- Container orchestration
+
+---
+
+#  Current Focus
+
+Continuously improving in:
+
+- Cloud-native architecture
+- Kubernetes administration
+- DevSecOps practices
+- Infrastructure automation
+- Scalable system design
+- Production deployment strategies
+
+---
+
+#  Professional Goal
+
+My goal is to become a highly skilled DevOps Engineer capable of designing, automating, and maintaining secure, scalable, and reliable infrastructure solutions for modern technology teams.
+
+---
+
+#  Connect With Me
+
+GitHub:
+https://github.com/feranzeey
+
+LinkedIn:
+https://www.linkedin.com/in/dada-oluwaferanmi-devops
+
+
+⚡ **Engineering Mindset:**  
+I believe strong engineers are built through continuous improvement — building systems, solving problems, learning from failures, and documenting solutions.
