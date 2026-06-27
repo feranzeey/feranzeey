@@ -1,4 +1,4 @@
-# Hi, I'm Dada Oluwaferanmi Emmanuel 
+# Hi, I'm Oluwaferanmi Dada 
 
 ## DevOps Engineer Intern | Cloud Infrastructure | Automation | CI/CD | Kubernetes
 
