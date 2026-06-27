@@ -1,6 +1,6 @@
 # Hi, I'm Oluwaferanmi Dada 
 
-## DevOps Engineer Intern | Cloud Infrastructure | Automation | CI/CD | Kubernetes
+## DevOps Engineer | Cloud Infrastructure | Automation | CI/CD | Kubernetes
 
 I am a DevOps Engineer Intern at **Springer Capital (Remote, United States)**, focused on building practical experience in modern cloud infrastructure, automation, deployment workflows, and reliable software delivery.
 
