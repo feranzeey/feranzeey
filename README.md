@@ -2,7 +2,7 @@
 
 ## DevOps Engineer | Cloud Infrastructure | Automation | CI/CD | Kubernetes
 
-I am a DevOps Engineer Intern at **Springer Capital (Remote, United States)**, focused on building practical experience in modern cloud infrastructure, automation, deployment workflows, and reliable software delivery.
+I am a DevOps Engineer at **Springer Capital (Remote, United States)**, focused on building practical experience in modern cloud infrastructure, automation, deployment workflows, and reliable software delivery.
 
 My work and learning journey revolve around improving system reliability, automating repetitive processes, supporting deployment pipelines, and developing hands-on skills across DevOps technologies.
 
