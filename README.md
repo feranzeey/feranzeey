@@ -1,116 +1,86 @@
-# Hi, I'm Oluwaferanmi Dada 
+Dada Oluwaferanmi
 
-## DevOps Engineer | Cloud Infrastructure | Automation | CI/CD | Kubernetes
+DevOps Engineer | Cloud Infrastructure | Linux | Docker | Kubernetes | CI/CD | Infrastructure Automation
 
-I am a DevOps Engineer at **Springer Capital (Remote, United States)**, focused on building practical experience in modern cloud infrastructure, automation, deployment workflows, and reliable software delivery.
+I am a DevOps Engineer passionate about building reliable, scalable, and production-ready infrastructure. I enjoy designing cloud-native solutions, automating deployments, monitoring systems, and solving real-world infrastructure challenges through hands-on projects.
 
-My work and learning journey revolve around improving system reliability, automating repetitive processes, supporting deployment pipelines, and developing hands-on skills across DevOps technologies.
+My focus is on continuous learning and implementing technologies that reflect production environments and industry best practices.
 
-I am passionate about creating efficient engineering workflows where development and operations work together to deliver scalable and secure solutions.
+Technical Skills
 
----
+Cloud & Infrastructure
 
-#  Professional Experience
+AWS
+Microsoft Azure
+Linux (Ubuntu)
+Networking Fundamentals
 
-## DevOps Engineer Intern — Springer Capital  
-**Remote | United States**
+Containers & Orchestration
 
-Working with DevOps concepts and practices including:
+Docker
+Kubernetes
+HashiCorp Nomad
+Container Storage Interface (CSI)
 
-- Cloud infrastructure management
-- CI/CD workflow implementation
-- Linux system administration
-- Containerized application environments
-- Deployment automation
-- Infrastructure monitoring
-- Troubleshooting and problem resolution
-- DevOps documentation and best practices
+CI/CD & Automation
 
----
+GitHub Actions
+Git
+Bash
+Infrastructure Automation
 
-#  Technical Skills
+Monitoring & Observability
 
-## DevOps & CI/CD
-- Git
-- GitHub
-- GitLab
-- Jenkins
-- CI/CD Pipelines
-- Release Automation
+Prometheus
+Grafana
+Node Exporter
 
-## Containers & Orchestration
-- Docker
-- Kubernetes
-- Container Management
-- Kubernetes Deployments
-- YAML Configuration
+Programming
 
-## Cloud & Infrastructure
-- AWS
-- Linux Administration
-- Virtual Machines
-- Networking Fundamentals
-- Infrastructure as Code (Terraform)
+Python
+Shell Scripting
+Featured Projects
+Infrastructure Health Prediction
 
-## Automation & Monitoring
-- Bash Scripting
-- Python
-- Prometheus
-- Grafana
-- Logging & Monitoring Concepts
+A monitoring platform built with Docker, Prometheus, Grafana, and Python for infrastructure monitoring, anomaly detection, health reporting, and predictive analysis.
 
----
+Technologies
+Docker • Prometheus • Grafana • Python • Linux
 
-#  Engineering Projects
+Nomad CSI Persistent Storage Implementation
 
-I build practical projects focused on solving real infrastructure challenges:
+Implemented persistent storage for HashiCorp Nomad using Container Storage Interface (CSI) with an NFS backend. The project demonstrates persistent workloads, volume management, and infrastructure troubleshooting.
 
-###  GitLab Backup & Recovery Automation
-- Automated backup workflows
-- Linux-based scheduling
-- Backup validation and recovery testing
-- Disaster recovery practices
+Technologies
+HashiCorp Nomad • CSI • Docker • Linux • NFS
 
-###  Containerized Application Deployment
-- Docker image creation
-- Container management
-- Application deployment workflows
+Legacy Infrastructure Modernization
 
-###  Kubernetes Deployment Practice
-- Kubernetes resources
-- Pod troubleshooting
-- Service configuration
-- Container orchestration
+Migration of legacy infrastructure to modern deployment practices using automation and containerized services.
 
----
+Application Performance Intelligence
 
-#  Current Focus
+Performance monitoring and analysis platform designed to improve application reliability and identify performance bottlenecks.
 
-Continuously improving in:
+Enterprise Anomaly Detection
 
-- Cloud-native architecture
-- Kubernetes administration
-- DevSecOps practices
-- Infrastructure automation
-- Scalable system design
-- Production deployment strategies
+Infrastructure monitoring solution focused on detecting abnormal system behavior and improving operational visibility.
 
----
-
-#  Professional Goal
-
-My goal is to become a highly skilled DevOps Engineer capable of designing, automating, and maintaining secure, scalable, and reliable infrastructure solutions for modern technology teams.
-
----
-
-#  Connect With Me
-
-GitHub:
-https://github.com/feranzeey
+Current Focus
+Kubernetes
+Production Infrastructure
+Platform Engineering
+Infrastructure as Code
+Cloud Architecture
+Observability
+DevOps Automation
+Connect
 
 LinkedIn:
 https://www.linkedin.com/in/dada-oluwaferanmi-devops
 
+GitHub:
+https://github.com/feranzeey
 
-⚡ **Engineering Mindset:**  
-I believe strong engineers are built through continuous improvement — building systems, solving problems, learning from failures, and documenting solutions.
+Email:
+dadaferanmi1@gmail.com
