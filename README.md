@@ -1,4 +1,4 @@
-# Hi, I'm Dada Oluwaferanmi
+# Hi, I am Oluwaferanmi Dada
 
 **DevOps Engineer | Cloud Infrastructure | Kubernetes | Docker | CI/CD | Linux | Automation**
 
